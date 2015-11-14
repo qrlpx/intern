@@ -4,7 +4,7 @@ version = "0.0.0"
 authors = ["qrlpx <>"]
 description = "A library for interning strings and other kinds of data (currently only bytearrays)."
 
-repository = "https://github.com/qrlpx/downcast-rs"
+repository = "https://github.com/qrlpx/intern"
 
 license = "CC0-1.0"
 
