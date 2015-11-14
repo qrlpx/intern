@@ -1,0 +1,13 @@
+[package]
+name = "intern"
+version = "0.0.0"
+authors = ["qrlpx <>"]
+description = "A library for interning strings and other kinds of data (currently only bytearrays)."
+
+repository = "https://github.com/qrlpx/downcast-rs"
+
+license = "CC0-1.0"
+
+[dependencies]
+fnv = "^1.0"
+rustc-serialize = "^0.3"
